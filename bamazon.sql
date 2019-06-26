@@ -14,32 +14,32 @@ CREATE TABLE products(
 );
 
 INSERT INTO products (product_name, department_name, price, stock_quantity)
-VALUES ("Lion", "exotic pets", 20000, 100)
+VALUES ("Lion", "exotic pets", 20000, 100);
 
 INSERT INTO products (product_name, department_name, price, stock_quantity)
-VALUES ("Tiger", "exotic pets", 15000, 50)
+VALUES ("Tiger", "exotic pets", 15000, 50);
 
 INSERT INTO products (product_name, department_name, price, stock_quantity)
-VALUES ("Apple", "fruit", 5, 1000)
+VALUES ("Apple", "fruit", 5, 1000);
 
 INSERT INTO products (product_name, department_name, price, stock_quantity)
-VALUES ("Grape", "fruit", 2, 10000)
+VALUES ("Grape", "fruit", 2, 10000);
 
 INSERT INTO products (product_name, department_name, price, stock_quantity)
-VALUES ("Airplane", "vehicles", 2000000, 5)
+VALUES ("Airplane", "vehicles", 2000000, 5);
 
 INSERT INTO products (product_name, department_name, price, stock_quantity)
-VALUES ("Spaceship", "vehicles", 20000000, 2)
+VALUES ("Spaceship", "vehicles", 20000000, 2);
 
 INSERT INTO products (product_name, department_name, price, stock_quantity)
-VALUES ("Fruitloops", "cereal", 10, 100000)
+VALUES ("Fruitloops", "cereal", 10, 100000);
 
 INSERT INTO products (product_name, department_name, price, stock_quantity)
-VALUES ("Chex", "cereal", 20, 100000000)
+VALUES ("Chex", "cereal", 20, 100000000);
 
 INSERT INTO products (product_name, department_name, price, stock_quantity)
-VALUES ("Handgun", "weapons", 500, 300)
+VALUES ("Handgun", "weapons", 500, 300);
 
 INSERT INTO products (product_name, department_name, price, stock_quantity)
-VALUES ("Rocket Launcher", "weapons", 5000, 100)
+VALUES ("Rocket Launcher", "weapons", 5000, 100);
 
