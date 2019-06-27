@@ -29,7 +29,7 @@ function startmanager() {
         {
             type: "list",
             message: "Hi manager, what would you like to do?",
-            choices: ["View Products", "View Low Inventory", "Add to inventory", "Add New Products"],
+            choices: ["View Products", "View Low Inventory", "Add to inventory", "Add New Products", "Nothing"],
             name: "selection"
         }
     ])

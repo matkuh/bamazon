@@ -13,6 +13,7 @@ CREATE TABLE products(
     PRIMARY KEY (id)
 );
 
+
 INSERT INTO products (product_name, department_name, price, stock_quantity)
 VALUES ("Lion", "exotic pets", 20000, 100);
 
